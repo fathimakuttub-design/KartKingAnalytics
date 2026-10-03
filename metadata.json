@@ -1,0 +1,8 @@
+{
+  "name": "KartKing Analytics - E-Commerce Sales & Customer Intelligence",
+  "description": "Executive sales and customer analytics dashboard for KartKing, featuring Indian e-commerce metrics, RFM segmentation, operations breakdown, and Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
